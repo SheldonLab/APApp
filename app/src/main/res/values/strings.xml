@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AP Physics application</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list1a_array">
+        <item>80</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+    </string-array>
+    <string-array name="list1b_array">
+        <item>O</item>
+        <item>A</item>
+        <item>I</item>
+        <item>Z</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="list2_array">
+        <item>AM1</item>
+        <item>AM2</item>
+        <item>PM1</item>
+        <item>PM2</item>
+    </string-array>
+</resources>
