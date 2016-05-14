@@ -1,0 +1,24 @@
+
+html { font-size: 20px; }
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 5%;
+}
+div.form-row
+{
+    float:left;
+    width:40%;
+}
+div.left{
+    float:left;
+    width:50%;
+}
+div.right{
+    float:right;
+    width:50%;
+}
